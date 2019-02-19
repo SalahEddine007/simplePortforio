@@ -1,0 +1,19 @@
+{
+  "name": "portforio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[DCreate\u001b[C\u001b[ff  \u001b[D\u001bsimple porteforio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalahEddine007/simplePortforio.git"
+  },
+  "author": "Salah Eddine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SalahEddine007/simplePortforio/issues"
+  },
+  "homepage": "https://github.com/SalahEddine007/simplePortforio#readme"
+}
